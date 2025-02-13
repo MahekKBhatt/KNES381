@@ -4,7 +4,7 @@
 
 <span style="color:red;">This text is a different color!</span> 
 
-<a href="ImageFolder/tree.jgp">Image Link</a> 
+<a href="ImageFolder/tree.jpg">Image Link</a> 
 <p>
   V&#x0307;O<sub>2</sub>
 </p>
