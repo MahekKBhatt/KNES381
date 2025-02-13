@@ -4,7 +4,7 @@
 
 $\color{red}{This\ text\ is\ in\ another\ color!} $ 
 
-<a href="ImageFolder/tree.jpg">Image Link</a> 
+[Tree Image Link](https://github.com/MahekKBhatt/KNES381/blob/0d74ceb3b8344c35a9419c224592261e3bb0e799/ImageFolder/tree.jpg) 
 
 <p>
   V&#x0307;O<sub>2</sub>
