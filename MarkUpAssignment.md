@@ -2,7 +2,7 @@
 
 <img align="right" src="ImageFolder/tree.jpg" alt="Tree Image" width="400" height="400"/> 
 
-<p>This text is a different color!</p>
+<span style="color:red;">This text is a different color!</span> 
 
 <a href="ImageFolder/tree.jgp">Image Link</a> 
 <p>
